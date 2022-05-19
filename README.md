@@ -9,7 +9,7 @@
 
 3. Use [`yargs`](https://www.npmjs.com/package/yargs) (for CLI args parsing) to let user enable or not the previous option (password not displayed but copied in clipboard) with an `-c` argument. What about also taking as parameter the desired password length?
 
-4. Add another option to require at least one symbol and/or one number in the generated password. And, when printing password on screen, display _symbols in blue_ and _numbers in red_ (using [ANSI code](https://en.wikipedia.org/wiki/ANSI_escape_code) by hand or importing a NPM module of your choice).
+4. Add another option to require at least one symbol and/or one number in the generated password. And, when printing password on screen, display _symbols in blue_ and _numbers in red_ (using [ANSI code](https://en.wikipedia.org/wiki/ANSI_escape_code) by hand or importing a NPM module of your choice).comment faire pour avoir au moins un symbol . affficher les symbolles et eles noms en autre couleur
 
 **BONUS** (at your option, use another method to generate password):
 
